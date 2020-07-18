@@ -5,3 +5,11 @@
 _$HOMEでQt_configを設置する場合_
 
 [Qt](https://ja.wikipedia.org/wiki/Qt) | [GNU General Public License](https://ja.wikipedia.org/wiki/GNU_General_Public_License)
+
+### 環境
+
+```markdown
+・iTerm2が動作する環境
+
+MacOS Catalina (just now)
+```
