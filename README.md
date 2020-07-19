@@ -4,7 +4,7 @@
 
 > 設定 → 環境 → system → ターミナル: /Users/ユーザ名/Qt_config/openterminal.py
 
-> パッチコマンド: 空欄にしておく
+> パッチコマンド: /usr/bin/patch
 
 _$HOMEでQt_configを設置する場合_
 
