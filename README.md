@@ -1,3 +1,5 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)![GitHub release](https://img.shields.io/github/release/takkii/Qt_config.svg?style=flat)[![GitHub Status](https://img.shields.io/github/last-commit/takkii/Qt_config.svg?style=flat)](GitHub)
+
 ### QtCreatorでiTermを使うためのファイル
 
 > 設定 → 環境 → system → ターミナル: /Users/ユーザ名/Qt_config/openterminal.py
