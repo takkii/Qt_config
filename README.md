@@ -1,10 +1,16 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)![GitHub release](https://img.shields.io/github/release/takkii/Qt_config.svg?style=flat)[![GitHub Status](https://img.shields.io/github/last-commit/takkii/Qt_config.svg?style=flat)](GitHub)
 
-### QtCreatorでiTermを使うためのファイル
+### QtCreatorでiTerm2を使うためのファイル設定例
 
-> 設定 → 環境 → system → ターミナル: /Users/ユーザ名/Qt_config/openterminal.py
+```markdown
+cd $HOME
 
-> パッチコマンド: /usr/bin/patch
+git clone git@github.com:takkii/Qt_config.git
+
+設定 → 環境 → system → ターミナル: /Users/ユーザ名/Qt_config/openterminal.py
+
+パッチコマンド: /usr/bin/patch
+```
 
 _$HOMEでQt_configを設置する場合_
 
